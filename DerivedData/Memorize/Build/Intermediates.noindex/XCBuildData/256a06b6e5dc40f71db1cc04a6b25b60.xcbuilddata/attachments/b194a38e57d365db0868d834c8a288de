@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master.dia",
+    "emit-module-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master.swiftdeps"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/CardView.swift" : {
+    "const-values" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.swiftconstvalues",
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.dia",
+    "index-unit-output-path" : "/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.o",
+    "llvm-bc" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.bc",
+    "object" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.o",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView.swiftdeps",
+    "swiftmodule" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/CardView~partial.swiftmodule"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/ContentView.swift" : {
+    "const-values" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/EmojiTheme.swift" : {
+    "const-values" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.swiftconstvalues",
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.dia",
+    "index-unit-output-path" : "/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.o",
+    "llvm-bc" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.bc",
+    "object" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.o",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme.swiftdeps",
+    "swiftmodule" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/EmojiTheme~partial.swiftmodule"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/MemorizeApp.swift" : {
+    "const-values" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.swiftconstvalues",
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.dia",
+    "index-unit-output-path" : "/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.o",
+    "llvm-bc" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.bc",
+    "object" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.o",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp.swiftdeps",
+    "swiftmodule" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/MemorizeApp~partial.swiftmodule"
+  }
+}

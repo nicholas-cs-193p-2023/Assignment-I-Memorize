@@ -1,0 +1,16 @@
+{
+  "source": "/Users/nicholasdalba/Developer/Memorize/Memorize/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Memorize",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 29
+        }
+      }
+    ]
+  },
+  "version": 1
+}

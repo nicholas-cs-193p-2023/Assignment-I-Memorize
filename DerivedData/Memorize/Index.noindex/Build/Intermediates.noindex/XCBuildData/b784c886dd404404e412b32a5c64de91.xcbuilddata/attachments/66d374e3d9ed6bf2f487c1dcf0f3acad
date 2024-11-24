@@ -1,0 +1,24 @@
+{
+  "" : {
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master.dia",
+    "emit-module-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/Objects-normal/arm64/Memorize-master.swiftdeps"
+  },
+  "/Users/nicholasdalba/Developer/Memorize/DerivedData/Memorize/Index.noindex/Build/Intermediates.noindex/Memorize.build/Debug-iphonesimulator/Memorize.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/CardView.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/ContentView.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/EmojiTheme.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize/Memorize/MemorizeApp.swift" : {
+
+  }
+}
